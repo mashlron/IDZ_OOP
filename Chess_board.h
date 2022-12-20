@@ -143,7 +143,7 @@ namespace Chess {
 			// 
 			this->pictureBox1->Location = System::Drawing::Point(36, 11);
 			this->pictureBox1->Name = L"pictureBox1";
-			this->pictureBox1->Size = System::Drawing::Size(1030, 596);
+			this->pictureBox1->Size = System::Drawing::Size(598, 516);
 			this->pictureBox1->TabIndex = 0;
 			this->pictureBox1->TabStop = false;
 			this->pictureBox1->Click += gcnew System::EventHandler(this, &Chess_board::pictureBox1_Click_1);
@@ -153,7 +153,7 @@ namespace Chess {
 			// 
 			// button1
 			// 
-			this->button1->Location = System::Drawing::Point(1271, 36);
+			this->button1->Location = System::Drawing::Point(804, 37);
 			this->button1->Name = L"button1";
 			this->button1->Size = System::Drawing::Size(93, 50);
 			this->button1->TabIndex = 1;
@@ -163,7 +163,7 @@ namespace Chess {
 			// 
 			// button2
 			// 
-			this->button2->Location = System::Drawing::Point(1172, 93);
+			this->button2->Location = System::Drawing::Point(705, 94);
 			this->button2->Name = L"button2";
 			this->button2->Size = System::Drawing::Size(93, 50);
 			this->button2->TabIndex = 2;
@@ -173,7 +173,7 @@ namespace Chess {
 			// 
 			// button3
 			// 
-			this->button3->Location = System::Drawing::Point(1172, 36);
+			this->button3->Location = System::Drawing::Point(705, 37);
 			this->button3->Name = L"button3";
 			this->button3->Size = System::Drawing::Size(93, 50);
 			this->button3->TabIndex = 3;
@@ -183,7 +183,7 @@ namespace Chess {
 			// 
 			// button4
 			// 
-			this->button4->Location = System::Drawing::Point(1271, 93);
+			this->button4->Location = System::Drawing::Point(804, 94);
 			this->button4->Name = L"button4";
 			this->button4->Size = System::Drawing::Size(93, 50);
 			this->button4->TabIndex = 4;
@@ -193,7 +193,7 @@ namespace Chess {
 			// 
 			// button5
 			// 
-			this->button5->Location = System::Drawing::Point(1202, 183);
+			this->button5->Location = System::Drawing::Point(735, 184);
 			this->button5->Name = L"button5";
 			this->button5->Size = System::Drawing::Size(163, 41);
 			this->button5->TabIndex = 5;
@@ -203,7 +203,7 @@ namespace Chess {
 			// 
 			// button6
 			// 
-			this->button6->Location = System::Drawing::Point(1202, 230);
+			this->button6->Location = System::Drawing::Point(735, 231);
 			this->button6->Name = L"button6";
 			this->button6->Size = System::Drawing::Size(79, 44);
 			this->button6->TabIndex = 6;
@@ -213,7 +213,7 @@ namespace Chess {
 			// 
 			// button7
 			// 
-			this->button7->Location = System::Drawing::Point(1286, 230);
+			this->button7->Location = System::Drawing::Point(819, 231);
 			this->button7->Name = L"button7";
 			this->button7->Size = System::Drawing::Size(78, 44);
 			this->button7->TabIndex = 7;
@@ -223,7 +223,7 @@ namespace Chess {
 			// 
 			// button8
 			// 
-			this->button8->Location = System::Drawing::Point(1201, 280);
+			this->button8->Location = System::Drawing::Point(734, 281);
 			this->button8->Name = L"button8";
 			this->button8->Size = System::Drawing::Size(79, 44);
 			this->button8->TabIndex = 8;
@@ -233,7 +233,7 @@ namespace Chess {
 			// 
 			// button9
 			// 
-			this->button9->Location = System::Drawing::Point(1286, 280);
+			this->button9->Location = System::Drawing::Point(819, 281);
 			this->button9->Name = L"button9";
 			this->button9->Size = System::Drawing::Size(79, 44);
 			this->button9->TabIndex = 9;
@@ -243,7 +243,7 @@ namespace Chess {
 			// 
 			// button10
 			// 
-			this->button10->Location = System::Drawing::Point(1203, 331);
+			this->button10->Location = System::Drawing::Point(736, 332);
 			this->button10->Name = L"button10";
 			this->button10->Size = System::Drawing::Size(79, 44);
 			this->button10->TabIndex = 10;
@@ -253,7 +253,7 @@ namespace Chess {
 			// 
 			// button11
 			// 
-			this->button11->Location = System::Drawing::Point(1286, 331);
+			this->button11->Location = System::Drawing::Point(819, 332);
 			this->button11->Name = L"button11";
 			this->button11->Size = System::Drawing::Size(79, 44);
 			this->button11->TabIndex = 11;
@@ -263,7 +263,7 @@ namespace Chess {
 			// 
 			// textBox2
 			// 
-			this->textBox2->Location = System::Drawing::Point(1203, 158);
+			this->textBox2->Location = System::Drawing::Point(736, 159);
 			this->textBox2->Name = L"textBox2";
 			this->textBox2->Size = System::Drawing::Size(162, 20);
 			this->textBox2->TabIndex = 13;
@@ -272,7 +272,7 @@ namespace Chess {
 			// 
 			// textBox3
 			// 
-			this->textBox3->Location = System::Drawing::Point(1182, 11);
+			this->textBox3->Location = System::Drawing::Point(715, 12);
 			this->textBox3->Name = L"textBox3";
 			this->textBox3->Size = System::Drawing::Size(183, 20);
 			this->textBox3->TabIndex = 14;
@@ -281,7 +281,7 @@ namespace Chess {
 			// 
 			// button12
 			// 
-			this->button12->Location = System::Drawing::Point(1118, 230);
+			this->button12->Location = System::Drawing::Point(651, 231);
 			this->button12->Name = L"button12";
 			this->button12->Size = System::Drawing::Size(79, 44);
 			this->button12->TabIndex = 15;
@@ -291,7 +291,7 @@ namespace Chess {
 			// 
 			// button13
 			// 
-			this->button13->Location = System::Drawing::Point(1118, 280);
+			this->button13->Location = System::Drawing::Point(651, 281);
 			this->button13->Name = L"button13";
 			this->button13->Size = System::Drawing::Size(78, 44);
 			this->button13->TabIndex = 16;
@@ -301,7 +301,7 @@ namespace Chess {
 			// 
 			// button14
 			// 
-			this->button14->Location = System::Drawing::Point(1118, 331);
+			this->button14->Location = System::Drawing::Point(651, 332);
 			this->button14->Name = L"button14";
 			this->button14->Size = System::Drawing::Size(79, 44);
 			this->button14->TabIndex = 17;
@@ -311,7 +311,7 @@ namespace Chess {
 			// 
 			// button15
 			// 
-			this->button15->Location = System::Drawing::Point(1118, 381);
+			this->button15->Location = System::Drawing::Point(651, 382);
 			this->button15->Name = L"button15";
 			this->button15->Size = System::Drawing::Size(79, 44);
 			this->button15->TabIndex = 18;
@@ -321,7 +321,7 @@ namespace Chess {
 			// 
 			// button16
 			// 
-			this->button16->Location = System::Drawing::Point(1203, 381);
+			this->button16->Location = System::Drawing::Point(736, 382);
 			this->button16->Name = L"button16";
 			this->button16->Size = System::Drawing::Size(79, 44);
 			this->button16->TabIndex = 19;
@@ -331,7 +331,7 @@ namespace Chess {
 			// 
 			// button17
 			// 
-			this->button17->Location = System::Drawing::Point(1288, 381);
+			this->button17->Location = System::Drawing::Point(821, 382);
 			this->button17->Name = L"button17";
 			this->button17->Size = System::Drawing::Size(79, 44);
 			this->button17->TabIndex = 20;
@@ -343,7 +343,7 @@ namespace Chess {
 			// 
 			this->AutoScaleDimensions = System::Drawing::SizeF(6, 13);
 			this->AutoScaleMode = System::Windows::Forms::AutoScaleMode::Font;
-			this->ClientSize = System::Drawing::Size(1416, 610);
+			this->ClientSize = System::Drawing::Size(917, 540);
 			this->Controls->Add(this->button17);
 			this->Controls->Add(this->button16);
 			this->Controls->Add(this->button15);
@@ -364,6 +364,7 @@ namespace Chess {
 			this->Controls->Add(this->button2);
 			this->Controls->Add(this->button1);
 			this->Controls->Add(this->pictureBox1);
+			this->MaximizeBox = false;
 			this->Name = L"Chess_board";
 			this->Text = L"Chess_board";
 			this->Load += gcnew System::EventHandler(this, &Chess_board::Chess_board_Load);
